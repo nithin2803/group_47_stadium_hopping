@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StadiumHopping/static/css/main.68f3d1a8.chunk.css",
+    "main.js": "/StadiumHopping/static/js/main.ef8e4cb6.chunk.js",
+    "main.js.map": "/StadiumHopping/static/js/main.ef8e4cb6.chunk.js.map",
+    "runtime-main.js": "/StadiumHopping/static/js/runtime-main.cad4f26f.js",
+    "runtime-main.js.map": "/StadiumHopping/static/js/runtime-main.cad4f26f.js.map",
+    "static/js/2.ee8498e8.chunk.js": "/StadiumHopping/static/js/2.ee8498e8.chunk.js",
+    "static/js/2.ee8498e8.chunk.js.map": "/StadiumHopping/static/js/2.ee8498e8.chunk.js.map",
+    "static/js/3.86ee572a.chunk.js": "/StadiumHopping/static/js/3.86ee572a.chunk.js",
+    "static/js/3.86ee572a.chunk.js.map": "/StadiumHopping/static/js/3.86ee572a.chunk.js.map",
+    "index.html": "/StadiumHopping/index.html",
+    "static/css/main.68f3d1a8.chunk.css.map": "/StadiumHopping/static/css/main.68f3d1a8.chunk.css.map",
+    "static/js/2.ee8498e8.chunk.js.LICENSE.txt": "/StadiumHopping/static/js/2.ee8498e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad4f26f.js",
+    "static/js/2.ee8498e8.chunk.js",
+    "static/css/main.68f3d1a8.chunk.css",
+    "static/js/main.ef8e4cb6.chunk.js"
+  ]
+}
